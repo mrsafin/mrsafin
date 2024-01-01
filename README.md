@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman Safin</h1>
 <h3 align="center">I'm a passionate learner in the field of Computer Science and Technology, currently pursuing my diploma at Munshiganj Polytechnic Institute. My primary interest lies in software engineering, and I'm an enthusiastic advocate for open source.</h3>
 
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsafin&label=Profile%20views&color=0e75b6&style=flat" alt="mrsafin" /> </p>
 
 - 🔭 I’m currently focusing on **building a strong foundation in computer science**
