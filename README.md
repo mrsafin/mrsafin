@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently focusing on **building a strong foundation in computer science**
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **Algorithms**
 
 - 📫 How to reach me **mrsafin404@gmail.com**
 
