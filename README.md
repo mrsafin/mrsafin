@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsafin&label=Profile%20views&color=0e75b6&style=flat" alt="mrsafin" /> </p>
-
 - 🔭 I’m currently focusing on **building a strong foundation in computer science**
 
 - 🌱 I’m currently learning **Algorithms**
@@ -24,7 +22,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsafin&show_icons=true&locale=en" alt="mrsafin" /></p>
+<p align="left" ><img height="150em" alt = "Mahfuzur Rahman Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrsafin&show_icons=true&theme=algolia&include_all_commits=true"/></p>
+ 
+<p align="left" ><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsafin&layout=compact&langs_count=7&theme=algolia"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsafin&" alt="mrsafin" /></p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrsafin&label=Profile%20views&color=0e75b6&style=flat" alt="mrsafin" /> </p>
