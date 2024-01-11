@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" >, I'm Mahfuzur Rahman Safin</h1>
 <h3 align="center">I'm a passionate learner in the field of Computer Science and Technology, currently pursuing my diploma at Munshiganj Polytechnic Institute. My primary interest lies in software engineering, and I'm an enthusiastic advocate for open source.</h3><br>
 
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
+
 - 🌍  I'm based in Gazipur
 - 🔭 I’m currently focusing on **building a strong foundation in computer science**
 - 🧠  I'm learning **Algorithms**
