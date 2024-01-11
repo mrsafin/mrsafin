@@ -3,10 +3,10 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
 
-- 🌍  I'm based in Gazipur
-- 🔭 I’m currently focusing on **building a strong foundation in computer science**
-- 🧠  I'm learning **Algorithms**
-- ✉️  You can contact me at **[mrsafin404@gmail.com](mailto:mrsafin404@gmail.com)**<br>
+- 🌍  I'm based in Gazipur
+- 🔭  I’m currently focusing on **building a strong foundation in computer science**
+- 🧠  Currently I'm learning **Algorithms**
+- ✉️   You can contact me at **[mrsafin404@gmail.com](mailto:mrsafin404@gmail.com)**<br>
 
 ## My Skills
 
