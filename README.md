@@ -6,7 +6,8 @@
 - 🌍  I'm based in Gazipur
 - 🔭  I’m currently focusing on **building a strong foundation in computer science**
 - 🧠  Currently I'm learning **Algorithms**
-- ✉️   You can contact me at **[mrsafin404@gmail.com](mailto:mrsafin404@gmail.com)**<br>
+- 📚  Currently reading **The Alchemist** 
+- ✉️  You can contact me at **[mrsafin404@gmail.com](mailto:mrsafin404@gmail.com)**<br>
 
 ## My Skills
 
