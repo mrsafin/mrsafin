@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" >, I'm Mahfuzur Rahman Safin</h1>
-<h3 align="center">I'm a passionate learner in the field of Computer Science and Technology, currently pursuing my diploma at Munshiganj Polytechnic Institute. My primary interest lies in software engineering, and I'm an enthusiastic advocate for open source.</h3><br>
+<h3 align="center">I'm a passionate learner in the field of Computer Science and Technology, currently pursuing my diploma at Munshiganj Polytechnic Institute. My primary interest lies in Cyber Security, and I'm an enthusiastic advocate for open source.</h3><br>
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
 
 - 🌍  I'm based in Gazipur
 - 🔭  I’m currently focusing on **building a strong foundation in Cyber Security**
-- 🧠  Currently I'm learning **Python and Networking**
+- 🧠  Currently I'm learning **Java**
 - 📚  Currently reading **The Alchemist** 
-- ✉️  You can contact me at **[mrsafin404@gmail.com](mailto:mrsafin404@gmail.com)**<br>
+- ✉️  You can contact me at **[mahfuzurrahman5609@gmail.com](mailto:mahfuzurrahman5609@gmail.com)**<br>
 
 ## My Skills
 
@@ -16,6 +16,7 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://www.https://www.mysql.com//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 
